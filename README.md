@@ -3,9 +3,9 @@
 this a project to control your esp ( may be any arduino but i only tested esp ) , by tweeting   . 
 
 ## hardware 
-  ### esp 
+  ##### esp 
 
 ## software 
-  ### c >> esp code 
-  ### python >> twitter reader
+  ##### c >> esp code 
+  ##### python >> twitter reader
   
